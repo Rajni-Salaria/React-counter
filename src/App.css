@@ -1,0 +1,42 @@
+.App {
+  background-color: rgb(195, 193, 192);
+  border-radius: 6px;
+  width: 800px;
+  justify-content: center;
+  margin: 80px auto;
+  padding: 52px 0;
+  height: 300px;
+  border: 1px solid black;
+
+}
+
+.counter{
+  display: flex;
+  width: 800px;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  height: 52px;
+  width: 56px;
+  margin: 0 0 0 33px;
+  font-size: 37px;
+}
+
+.button {
+  height: 52px;
+  width: 56px;
+  font-size: 37px;
+}
+
+.reset {
+  height: 52px;
+  width: 156px;
+  margin-left: 33px;
+  margin-right: 33;
+  font-size: 37px;
+}
